@@ -1,0 +1,43 @@
+body{
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    color: navy;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container{
+    display: flex;
+    align-items: center;
+    background: white;
+    border-bottom: 5px solid navy;
+    padding: 10px;
+    width: 550px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 7px black;
+}
+.text{
+    margin-right: 10px;
+    margin-left: 15px;
+}
+img{
+    width: 200px;
+    border-bottom: 3px solid navy;
+    margin-left: 30px;
+}
+h1{
+    font-size: 25pt;
+    font-weight: bold;
+    text-shadow: 0px 0px 1.5px black;
+}
+p{
+    font-size: 15pt;
+    color:gray;
+}
+h3{
+    font-size: 12pt;
+    font-weight: lighter;
+    color: gray;
+}
